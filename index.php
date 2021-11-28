@@ -53,11 +53,11 @@
         </div>
         <div class="about-content">
           <h2>hi, I'm musaa sami</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          <p>I am designer and developer based in Toronto, Canada who is passionate about all kinds of design but moreso about User Interface / User Experience design and development. I spend my free time learning how to use my current tools even better, such as figma, and learning new languages and frameworks, such as React.js.</p>
 
           <div class="skills-p">
             <!-- <i class="skills-icon fas fa-pen-nib fa-lg"></i> -->
-            <p><span>Things I enjoy designing: </span><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+            <p><span>Things I enjoy designing: </span><br>Design systems, Brands, User Interfaces</p>
           </div>
 
           <div class="skills-p">
